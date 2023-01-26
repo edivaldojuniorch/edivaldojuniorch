@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edivaldo Junior</h1>
 <h3 align="center">A chemical engineer passionate about IIOT, software development and data science.</h3>
 
-- 🔭 I’m currently working on [Radix Engineering and Software](https://www.radixeng.com/)
+- 🔭 I’m currently working on [Horizon Controls Group](https://www.horizon-controls.com/)
 
 - 📝 I regularly write articles on [https://edivaldo-junior.medium.com/](https://edivaldo-junior.medium.com/)
 
